@@ -57,7 +57,7 @@ MolVS==0.1.1
 monotonic==1.5
 mordred==1.2.0
 msgpack==1.0.2
-numba==0.52.0
+numba>=0.52.0
 numpy==1.19.5
 oauthlib==3.1.1
 opt-einsum==3.3.0
